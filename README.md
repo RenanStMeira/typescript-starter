@@ -1,8 +1,8 @@
 ## typescript-starter
 Aplicação para salvar arquivos e instalação de dependências
 
-## TSCONFIG.JSON
-{
+## TSCONFIG.JSON 
+
   "compilerOptions": {
   
     "module": "commonjs",
