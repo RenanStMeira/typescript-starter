@@ -1,9 +1,10 @@
 ## typescript-starter
 Aplicação para salvar arquivos e instalação de dependências
 
-## TSCONFIG>JSON
+## TSCONFIG.JSON
 {
   "compilerOptions": {
+  
     "module": "commonjs",
     "declaration": true,
     "removeComments": true,
@@ -25,6 +26,7 @@ Aplicação para salvar arquivos e instalação de dependências
     "esModuleInterop": true,
     "resolveJsonModule": true
   }
+  
 }
 
 ## Instalação do TypeScript
